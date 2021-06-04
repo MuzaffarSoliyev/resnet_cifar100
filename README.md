@@ -10,7 +10,7 @@ This is my experiment eviroument
 
 ### 1. enter directory
 ```bash
-$ cd pytorch-cifar100
+$ cd pytorch-cifar100-all
 ```
 ### 2. train the model
 
